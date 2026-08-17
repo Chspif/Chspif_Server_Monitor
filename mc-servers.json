@@ -1,0 +1,37 @@
+[
+  {
+    "name": "GTNH",
+    "nodes": [
+      {
+        "display": "sd.party.chspif.xyz",
+        "check": "www.chspif.website:1914",
+        "location": "山东节点"
+      },
+      {
+        "display": "frp-arm.com:13377",
+        "check": "frp-arm.com:13377",
+        "location": "陕西节点"
+      },
+      {
+        "display": "frp-leg.com:13377",
+        "check": "frp-leg.com:13377",
+        "location": "广东节点"
+      },
+      {
+        "display": "frp-hip.com:13377",
+        "check": "frp-hip.com:13377",
+        "location": "辽宁节点"
+      }
+    ]
+  },
+  {
+    "name": "创造服",
+    "nodes": [
+      {
+        "display": "www.chspif.website",
+        "check": "www.chspif.website:914",
+        "location": "山东节点"
+      }
+    ]
+  }
+]
