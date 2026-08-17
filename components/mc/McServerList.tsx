@@ -53,7 +53,6 @@ export function McServerList() {
           title="在线节点"
           icon={<Gamepad2 className="size-4" />}
           value={isLoading && !groups.length ? "--" : `${onlineNodes}/${totalNodes}`}
-          sub="全部 MC 服务器"
         />
       </div>
 

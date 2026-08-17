@@ -1,5 +1,45 @@
 [
   {
+    "name": "生存服",
+    "nodes": [
+      {
+        "display": "sd.sc.chspif.website",
+        "check": "www.chspif.website:1923",
+        "location": "山东节点"
+      },
+      {
+        "display": "zj.sc.chspif.website",
+        "check": "frp-fan.com:11011",
+        "location": "浙江节点"
+      },
+      {
+        "display": "gd.sc.chspif.website",
+        "check": "frp-leg.com:39157",
+        "location": "广东节点"
+      }
+    ]
+  },
+  {
+    "name": "创造服",
+    "nodes": [
+      {
+        "display": "sd.cz.chspif.website",
+        "check": "www.chspif.website:1914",
+        "location": "山东节点"
+      },
+      {
+        "display": "zj.cz.chspif.website",
+        "check": "frp-try.com:31162",
+        "location": "浙江节点"
+      },
+      {
+        "display": "gd.cz.chspif.website",
+        "check": "frp-pen.com:14254",
+        "location": "广东节点"
+      }
+    ]
+  },
+  {
     "name": "GTNH",
     "nodes": [
       {
@@ -21,16 +61,6 @@
         "display": "frp-hip.com:13377",
         "check": "frp-hip.com:13377",
         "location": "辽宁节点"
-      }
-    ]
-  },
-  {
-    "name": "创造服",
-    "nodes": [
-      {
-        "display": "www.chspif.website",
-        "check": "www.chspif.website:914",
-        "location": "山东节点"
       }
     ]
   }
