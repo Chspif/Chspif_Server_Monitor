@@ -24,7 +24,7 @@
     "nodes": [
       {
         "display": "sd.cz.chspif.website",
-        "check": "www.chspif.website:1914",
+        "check": "www.chspif.website:1924",
         "location": "山东节点"
       },
       {
