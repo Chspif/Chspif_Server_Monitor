@@ -46,6 +46,7 @@ export function McServerList() {
       <div>
         <h1 className="text-xl font-semibold tracking-tight">服务器节点</h1>
         <h3 className="text-lg font-semibold tracking-tight">各节点显示延迟不代表客户端连接延迟，请选择地理位置就近的节点</h3> 
+        <h3 className="text-lg font-semibold tracking-tight">节点显示离线并非代表不可用，这个傻逼探针......</h3> 
       </div>
 
       <div className="grid gap-4 sm:grid-cols-3">
