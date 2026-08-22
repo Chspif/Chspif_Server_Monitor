@@ -40,6 +40,26 @@
     ]
   },
   {
+    "name": "小游戏服",
+    "nodes": [
+      {
+        "display": "sd.game.chspif.website",
+        "check": "www.chspif.website:1925",
+        "location": "山东节点"
+      },
+      {
+        "display": "zj.game.chspif.website",
+        "check": "frp-fan.com:44262",
+        "location": "浙江节点"
+      },
+      {
+        "display": "gd.game.chspif.website",
+        "check": "frp-leg.com:25181",
+        "location": "广东节点"
+      }
+    ]
+  },
+  {
     "name": "GTNH",
     "nodes": [
       {
